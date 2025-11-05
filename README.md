@@ -38,24 +38,6 @@ Button_Refresh	Actualitza la pàgina
 Button_OpenExternal	Obre la pàgina al navegador
 Screen1.Initialize	Carrega la web en iniciar
 
-🧱 Arxius principals
-
-FotosMaragall.aia → Codi font per importar a App Inventor
-
-icona_maragall_512.png → Icona de l’aplicació
-
-README.md → Documentació i instruccions
-
-🚀 Instal·lació i ús
-
-Importa FotosMaragall.aia a MIT App Inventor.
-
-En el menú Build → Android App (.apk) genera l’instal·lador.
-
-Instal·la l’APK en el dispositiu Android.
-
-Obre l’app: accediràs directament a les galeries de fotos del centre.
-
 🏫 Crèdits
 
 Projecte educatiu desenvolupat per l’Escola Joan Maragall
